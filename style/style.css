@@ -1,0 +1,58 @@
+/* header style */
+.head{
+    background-image: url("../banner/banner3.png");
+    width: 1600px;
+    height: 808px;
+    margin: 0;
+    position: absolute;
+}
+.title{
+    color: #FFFFFF; 
+    position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+}
+.sub-title{
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+margin-top: 24px;
+margin-bottom: 30px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+}
+.contact-us{
+    text-align:center;
+    width: 160px;
+height: 64px;
+margin: 578px 235px 165px 1215px;
+}
+/* My failures of previous year */
+
+.section-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+.section-p{
+
+}
