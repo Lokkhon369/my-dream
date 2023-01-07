@@ -46,13 +46,45 @@ height: 64px;
 margin: 578px 235px 165px 1215px;
 }
 /* My failures of previous year */
+.last-year{
+    position: absolute;
+width: 1072px;
+height: 723.3px;
+left: 239px;
+top: 917px;
+background-image: url("../person.png");
+background-repeat:no-repeat ;
+}
 
 .section-title{
     color: #151414;
-    font-weight: 700;
-    font-size: 40px;
+    position: absolute;
+width: 288px;
+height: 94px;
+left: 650px;
+top: 200px;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+
 
 }
 .section-p{
+    color: #444343;
+    position: absolute;
+width: 416px;
+height: 104px;
+left: 650px;
+top: 350px;
+font-style: normal;
+line-height: 26px;
+
+}
+.ul{
+    position: absolute;
+width: 368px;
+height: 162px;
+left: 650px;
+top: 450px;
 
 }
