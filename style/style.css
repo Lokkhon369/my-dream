@@ -89,3 +89,6 @@ top: 450px;
 
 }
 /* my plans */
+.plans-sub-title{
+    display: flex;
+}
